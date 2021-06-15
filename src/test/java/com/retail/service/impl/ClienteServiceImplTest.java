@@ -1,4 +1,4 @@
-package com.promartcenter.service.impl;
+package com.retail.service.impl;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package com.promartcenter.controller;
+package com.retail.controller;
 
 import static org.junit.jupiter.api.Assertions.*;
 

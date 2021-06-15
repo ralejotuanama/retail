@@ -1,10 +1,10 @@
-package com.promartcenter;
+package com.retail;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProyectoPromartcenterApplicationTests {
+class ProyectoRetailApplicationTests {
 
 	@Test
 	void contextLoads() {
