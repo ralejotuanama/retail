@@ -27,6 +27,7 @@ import com.retail.service.IClienteService;
 @RequestMapping()
 public class ClienteController {
 
+	
 	@Autowired
 	private IClienteService service;
 

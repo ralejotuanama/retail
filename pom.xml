@@ -61,10 +61,10 @@
 
 
 		<!-- Hateoas - Nivel 3 Richardson -->
-		<dependency>
+		<!--  <dependency>
 			<groupId>org.springframework.hateoas</groupId>
 			<artifactId>spring-hateoas</artifactId>
-		</dependency>
+		</dependency>-->
 
 
 		<!-- <dependency> <groupId>io.springfox</groupId> <artifactId>springfox-swagger2</artifactId> 

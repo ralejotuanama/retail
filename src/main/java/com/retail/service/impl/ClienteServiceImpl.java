@@ -9,6 +9,7 @@ import com.retail.model.Cliente;
 import com.retail.repo.IClienteRepo;
 import com.retail.service.IClienteService;
 
+
 @Service
 public class ClienteServiceImpl implements IClienteService {
 
